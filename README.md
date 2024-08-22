@@ -1,1 +1,2 @@
-# TikTok_DataScience_Project_Google
+# Specilization Advanced Google Data Analytics
+# TikTok - Data Science project
